@@ -1,4 +1,4 @@
-(Un)official repository of Prometheus design docs.
+(Un)official repository of [Prometheus](http://prometheus.io/) design docs.
 
 For now, this is a collection of URLs, but will hopefully be expanded into actual files soon-ish.
 
